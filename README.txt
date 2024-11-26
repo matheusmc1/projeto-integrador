@@ -29,7 +29,8 @@ Como Testar
   Ou faça seu cadastro.
 
 Estrutura do Repositório
-- /docs: Documentação geral.
-- /diagrams: Diagramas UML e de banco de dados.
-- /prototypes: Wireframes e mockups.
-- /screenshots: Imagens do app em funcionamento.
+- /Vendas Cupcake; Pasta com toda a documentação.
+ - /docs: Documentação geral.
+ - /diagrams: Diagramas UML e de banco de dados.
+ - /prototypes: Wireframes e mockups.
+ - /screenshots: Imagens do app em funcionamento.
