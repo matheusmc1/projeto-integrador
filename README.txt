@@ -18,8 +18,8 @@ Funcionalidades
 
 
 Tecnologias
-- **Adalo** para o desenvolvimento do aplicativo.
-- **GitHub** para controle de versões e documentação.
+- *Adalo* para o desenvolvimento do aplicativo.
+- *GitHub* para controle de versões e documentação.
 
 Como Testar
 1. Acesse https://previewer.adalo.com/fbad4c2f-ac19-4bea-b7f5-225875b4c176?target=atztd3wh9q45fswq5dlhxlutp&params=%7B%7D
