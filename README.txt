@@ -5,7 +5,7 @@ Este é um projeto acadêmico desenvolvido para demonstrar um aplicativo de vend
 
 Funcionalidades
 - Login/Logout de usuários.
-- Cadastro e listagem de cupcakes.
+- Cadastro e listagem de cupcakes. (há um bug na adalo que às vezes a listagem não aparece, mas é necessário apenas atualizar a página)
 - Detalhe de produtos
 - Adicionar ao carrinho
 - Criação de pedidos
