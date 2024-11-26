@@ -6,9 +6,14 @@ Este é um projeto acadêmico desenvolvido para demonstrar um aplicativo de vend
 Funcionalidades
 - Login/Logout de usuários.
 - Cadastro e listagem de cupcakes.
+- Adicionar ao carrinho
+- Criação de pedidos
 - Histórico de pedidos.
 - Sistema de avaliações.
 - Aba "Fale Conosco".
+- Aba FAQ
+
+
 
 Tecnologias
 - **Adalo** para o desenvolvimento do aplicativo.
