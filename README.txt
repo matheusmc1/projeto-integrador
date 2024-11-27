@@ -28,6 +28,12 @@ Como Testar
     - senha: senha1234
   Ou faça seu cadastro.
 
+Observação Importante:
+
+- O link de pré-visualização do aplicativo no Adalo pode apresentar instabilidade ocasional. Caso o link não funcione de imediato, recomenda-se:
+    - Copiar e colar o link novamente em outra aba do navegador.
+    - Tentar acessar o link utilizando outro navegador.
+
 Estrutura do Repositório
 - /Vendas Cupcake; Pasta com toda a documentação.
  - /docs: Documentação geral.
